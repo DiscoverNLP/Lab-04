@@ -10,8 +10,6 @@ NLP Lab 04
 
 (Your Name(s) Here) 
 
-Spring 2021
-
 
 ## Similarity Questions
 
